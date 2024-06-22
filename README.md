@@ -17,4 +17,4 @@ i have made it into an ipynb so once can use it on Kaggle or colab, and in nbk3 
 
 this was developed in a very short time period because of my other ailments and wouldn't have been possible w/o gpt4, stackoverflow and the LBDL, thanks to them haha 
 
-v0.1 -[@amspsingh04] (https://www.github.com/amspsingh04)
+v0.1 -@amspsingh04
