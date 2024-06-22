@@ -1,3 +1,4 @@
+## DSC Project Team Lead Submission - Shourya Pratap Singh
 Dataset used is Sentiment140 which has about 1.6 million tweets classified into positive, negative and neutral(in some cases we classify into just negative and positive to make the computation easier otherwise Kaggle and my ISP will block me)
 
 nbk1 uses shows how we can use TFIDF Vectorizer, Support Vector Machines and Naive Bayes algorithms to create our models
